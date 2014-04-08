@@ -1,0 +1,7 @@
+http://victim.prolexic.com/img/logo.png
+http://victim.prolexic.com/#picCarousel
+http://victim.prolexic.com/css/bootstrap.css
+http://bankworldcorp.com//img/logo.png
+http://bankworldcorp.com/#picCarosel
+http://bankworldcorp.com/css/bootstrap.css
+POST http://bankworldcorp.com/ <.urls

